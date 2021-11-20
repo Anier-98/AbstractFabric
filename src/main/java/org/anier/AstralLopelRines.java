@@ -1,4 +1,4 @@
-package org.anier.;
+package org.anier;
 
 public class AstralLopelRines extends Rines {
 
